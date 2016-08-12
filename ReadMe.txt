@@ -15,5 +15,3 @@ Options
 Use map to display the results
 Show audio or visual results as you travel along the route 
 
-
-this line is being added to test conflict and how to sort them out 
