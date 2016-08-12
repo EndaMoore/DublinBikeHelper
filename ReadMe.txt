@@ -1,3 +1,7 @@
 ReadMe for Dublin Bike Helper
 
-Added some lines as a test 
+Main Ideas
+
+To build a website and learn python
+
+
